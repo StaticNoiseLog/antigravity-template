@@ -20,7 +20,7 @@ Usage
 =====
 
 1. Rename the template directory to your project name.
-2. Go to "Customizations, Rules" in Antigravity, click on each playbook and make sure that "Activation Mode" is set to "Manual".
+2. Open your project folder in Antigravity, then go to "Customizations > Rules", click on each playbook and make sure that "Activation Mode" is set to "Manual".
 3. Review and adapt the playbooks to your needs. They are truly opinionated and you may disagree with some of the choices. But the format has proven to work well with various LLMs.
 4. Start a new conversation in Antigravity and activate the playbook you want to use. Do not switch to another playbook within the same conversation. Always start a new conversation for each playbook and activate the playbook with the corresponding workflow (`/requirements`, `/architecture`, `/development`).
 5. Note that Phases 2 and 3 expect files to be present that are created in the previous phases. In that sense, this template is intended for greenfield projects. For brownfield projects, you could try to reverse engineer the existing codebase and create a requirements document and architecture description by going through the Requirements Engineering and Solution Architecture playbooks before starting the Software Development playbook.
