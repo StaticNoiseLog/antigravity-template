@@ -43,4 +43,5 @@ out/
 .DS_Store
 
 ### Antigravity Execution Logs ###
-build_log*.txt
+build*.log
+build*.txt
