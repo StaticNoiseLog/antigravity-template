@@ -41,3 +41,6 @@ out/
 
 ### Apple's Desktop Services Store ###
 .DS_Store
+
+### Antigravity Execution Logs ###
+build_log*.txt
